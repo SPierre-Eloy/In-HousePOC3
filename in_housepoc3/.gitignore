@@ -1,3 +1,4 @@
 .venv/
 .ipynb_checkpoints/
-data\Lemon_PreRaw\sub-032301\RSEEG
+data/Lemon_PreRaw/
+data/Lemon_PreEEGLAB/
